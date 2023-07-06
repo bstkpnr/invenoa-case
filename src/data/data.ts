@@ -32,7 +32,7 @@ const data=[
         ],
       },
       {
-        name: 'CANLI',
+        name: 'Canlı',
         img:require('../assets/foam-hand.png'),
         subMenus: [
             {
@@ -62,8 +62,8 @@ const data=[
             }
         ],      },
       {
-        name: 'MAÇÖNÜ',
-        img:require('../assets/motivation.png'),
+        name: 'Maçönü',
+        img:require('../assets/power.png'),
         subMenus: [
             {
                 id:1,

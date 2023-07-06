@@ -2,28 +2,41 @@ import {StyleSheet, Dimensions} from 'react-native';
 
 export default StyleSheet.create({
   
-      menuItem: {
-        flexDirection: 'row',
-        alignItems: 'center',
-        marginRight: 20,
-      },
-      menuText: {
-        fontSize: 16,
-        color: '#333',
-      },
-      subMenuContainer: {
-        flexDirection: 'row',
-        padding: 5,
-        backgroundColor: '#f0f0f0',
-      },
-      subMenuText: {
-        fontSize: 14,
-        color: '#666',
-        marginRight: 5,
-      },
-      icon: {
-        width: 20,
-        height: 20,
-        marginRight: 5,
-      },
+  menuItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginRight: 30,  
+    padding: 5,   
+  
+  },
+  menuText: {
+    fontSize: 16,    
+    color: '#fff',
+    marginRight: 5, 
+  },
+  subMenuContainer: {
+    flexDirection: 'row',
+    borderWidth: 1,
+    padding: 10,     
+    borderRadius: 10,
+    borderColor:'#fff'
+   
+  },
+  
+  subMenuText: {
+    fontSize: 14,    
+    color: '#fff',
+    marginRight: 5, 
+  },
+  icon: {
+    width: 24,       
+    height: 24,
+    marginRight: 5,
+  },
+  subIcon:{
+    width: 20,       
+    height: 20,
+    margin: 3,
+    
+  }
 });
