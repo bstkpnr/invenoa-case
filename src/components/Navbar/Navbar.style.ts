@@ -15,7 +15,7 @@ export default StyleSheet.create({
     padding: 5, 
     width: '100%', 
     flexWrap: 'nowrap', 
-    backgroundColor:'#FF1D23'
+    backgroundColor:'#023E73'
 
   },
   selectedSubMenu: {
