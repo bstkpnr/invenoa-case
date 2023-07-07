@@ -8,14 +8,15 @@ export default StyleSheet.create({
   },
   navBar: {
     flexDirection: 'row',
-    justifyContent: 'flex-start', 
+    justifyContent:'space-evenly', 
     alignItems: 'center', 
     borderWidth: 1,
     borderRadius: 5,
     padding: 5, 
     width: '100%', 
     flexWrap: 'nowrap', 
-    backgroundColor:'#023E73'
+    backgroundColor:'#023E73',
+    overflow: 'hidden', 
 
   },
   selectedSubMenu: {

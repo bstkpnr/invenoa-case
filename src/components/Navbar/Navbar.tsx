@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Image, Button } from 'react-native';
+import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Image } from 'react-native';
 import MenuItem from '../MenuItem/MenuItem';
 import { data } from '../../data/data';
 import styles from './Navbar.style'
