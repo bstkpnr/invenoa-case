@@ -33,7 +33,7 @@ export default StyleSheet.create({
   },
   subMenuText: {
     fontSize: 14,
-    color: '#F24C3D',
+    color: '#4942E4',
     marginRight: 5,
   },
   icon: {
