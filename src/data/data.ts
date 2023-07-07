@@ -62,27 +62,7 @@ const data = [
       },
     ],
   },
-  {
-    name: 'Filtre',
-    img: require('../assets/filter.png'),
-    subMenus: [
-      {
-        id: 1,
-        subMenuName: 'Futbol',
-        img: require('../assets/soccer-ball-variant.png'),
-      },
-      {
-        id: 2,
-        subMenuName: 'Voleybol',
-        img: require('../assets/volleyball.png'),
-      },
-      {
-        id: 3,
-        subMenuName: 'Hentbol',
-        img: require('../assets/handball.png'),
-      },
-    ],
-  },
+  
 ];
 
 export {data};

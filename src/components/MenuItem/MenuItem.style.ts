@@ -29,6 +29,7 @@ export default StyleSheet.create({
     overflow: 'visible', 
     zIndex: 2,  
     backgroundColor:'#F5F5F5'
+    
   },
   subMenuText: {
     fontSize: 14,

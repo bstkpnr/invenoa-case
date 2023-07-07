@@ -3,7 +3,7 @@ import {StyleSheet} from 'react-native';
 export default StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#D9D8D7',
+    backgroundColor: '#F5F5F5',
     padding: 10,
   },
   navBar: {
@@ -15,7 +15,7 @@ export default StyleSheet.create({
     padding: 5, 
     width: '100%', 
     flexWrap: 'nowrap', 
-    backgroundColor:'#023E73',
+    backgroundColor:'#4942E4',
     overflow: 'hidden', 
 
   },
@@ -31,7 +31,8 @@ export default StyleSheet.create({
     
   },
   text: {
-    color:'#fff',
-    fontSize:24
+    color:'#4942E4',
+    fontSize:24,
+    fontWeight:'700'
   },
 });
